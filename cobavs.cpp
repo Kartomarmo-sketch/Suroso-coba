@@ -19,3 +19,5 @@ void banyakPecahan(long uang, long pecahan[], int lembar[], int i){
 	cout << lembar[i] << " lembar " << pecahan[i] << endl;
 	}
 }
+sdadasdasdasdasdsadasd
+
